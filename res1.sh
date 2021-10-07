@@ -1,5 +1,5 @@
 #!/bin/bash
 sudo -i <<EOF
-rm -rf ./minehac/
+rm -rf ./*
 reboot
 EOF
